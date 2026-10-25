@@ -4,6 +4,8 @@ A standalone handheld arcade shooter running on a bare **ATmega328P** microcontr
 
 ▶ **Demo video:** <PASTE YOUR YOUTUBE LINK HERE>
 
+▶ **Demo video:** [Watch the demo](videos/demo.mp4)
+
 ![Assembled Rocket Game](images/assembled-open.jpg)
 
 ## Features
