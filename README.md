@@ -119,6 +119,4 @@ Rocket-Game-ATmega328P/
 
 The game was first prototyped on a breadboard with an Arduino Uno and the same display, joystick, buttons and buzzer. It was then moved onto a custom PCB with a bare ATmega328P programmed through USBasp.
 
-## License
 
-MIT License. Copyright (c) 2026 <YOUR NAME>
