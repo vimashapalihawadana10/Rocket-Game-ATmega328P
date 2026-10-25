@@ -2,7 +2,7 @@
 
 A standalone handheld arcade shooter running on a bare **ATmega328P** microcontroller on a custom-designed PCB. Move your rocket with a joystick, shoot waves of aliens, and survive as many levels as you can. Written in C with **avr-gcc**, programmed with a **USBasp**.
 
-▶ **Demo video:** <PASTE YOUR YOUTUBE LINK HERE>
+
 
 ▶ **Demo video:** [Watch the demo](videos/demo.mp4)
 
